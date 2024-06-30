@@ -29,7 +29,7 @@ My extensive experience in computer vision, combined with a high demand for cont
 
 ## Github stats
 
-<img src='https://github-readme-stats.vercel.app/api?username=arminbiglari&show_icons=true&theme=dracula)'/> <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=arminbiglari&card_height=250&theme=dracula&hide_border=false&include_all_commits=false&count_private=falselayout=compact' alt="Armin's Top Languages" align="right" width="220"/>
+
 
 
 ## My Skills

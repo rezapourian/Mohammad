@@ -1,12 +1,12 @@
-<h1> Hi, I'm Armin 👨🏻‍💻 </h1>
+<h1> Hi, I'm Mohammad 👨🏻‍💻 </h1>
 
 ### Connect with me:  
 
 
-[![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-blue?logo=google-scholar&logoColor=white&style=flat)](https://scholar.google.com/citations?user=xTJ7BeoAAAAJ&hl=en&oi=ao)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/arminbiglari98/)
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/arminbiglari)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:arminbiglariii@gmail.com)
+[![Scholar Badge](https://img.shields.io/badge/Google%20Scholar-blue?logo=google-scholar&logoColor=white&style=flat)]([https://scholar.google.com/citations?user=xTJ7BeoAAAAJ&hl=en&oi=ao](https://scholar.google.com/citations?user=_eFly9AAAAAJ&hl=en))
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/mohammadr_1999/)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/mohammadr_1999)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mrezapourian07@gmail.com)
 
 ------------------------
 ### Interests:
